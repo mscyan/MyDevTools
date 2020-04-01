@@ -1,0 +1,16 @@
+{
+  "icons": {
+    "16": "assets/icon.png",
+    "48": "assets/icon.png",
+    "128": "assets/icon.png"
+  },
+  "manifest_version": 2,
+  "name": "Dev Tools",
+  "version": "1.0",
+  "description": "",
+  "browser_action": {
+    "default_icon": "assets/icon.png",
+    "default_title": "Dev Tools",
+    "default_popup": "index.html"
+  }
+}
